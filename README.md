@@ -1,6 +1,9 @@
 <img src="titulochulo.png">
 
-<p> Me encanta la Ciencia <img src="see-this-this-is-science.gif" style="height: 100px"> y la Tecnologia <img src="techmo-the-technomancer-from-regular-show-v0-53kwmrd5ac6c1.gif" style="height: 100px"> </p>
+<h3 style="text-align: center;">Mi nombre es Vito Minaya González</h3>
+
+<p style="text-align: center;"> Me encanta la Ciencia <img src="see-this-this-is-science.gif" style="height: 100px"> y la Tecnologia <img src="techmo-the-technomancer-from-regular-show-v0-53kwmrd5ac6c1.gif" style="height: 100px;"> </p>
+
 
 
 <!--
