@@ -1,4 +1,7 @@
-## Hi there 👋
+<img src="tituloguay.png">
+
+<p> Me encanta la Ciencia <img src="see-this-this-is-science.gif" style="height: 100px"> y la Tecnologia <img src="techmo-the-technomancer-from-regular-show-v0-53kwmrd5ac6c1.gif" style="height: 100px"> </p>
+
 
 <!--
 **TrestoXD/TrestoXD** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
