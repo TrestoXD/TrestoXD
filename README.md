@@ -1,4 +1,4 @@
-<img src="tituloguay.png">
+<img src="titulochulo.png">
 
 <p> Me encanta la Ciencia <img src="see-this-this-is-science.gif" style="height: 100px"> y la Tecnologia <img src="techmo-the-technomancer-from-regular-show-v0-53kwmrd5ac6c1.gif" style="height: 100px"> </p>
 
